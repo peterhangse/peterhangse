@@ -23,8 +23,10 @@ Ingen webbplats, ingen kodfärd, inget CNAME. Det finns ingen "saajt".
 ## Göra ändring/uppdatera
 
 - Endast Version Git: `git add . && git commit` på en enda README-rad.
-- Allt i README är meningsbärande: ändra tidslinje-år/LinkedIn-/Firebase/-
+- Allt i README är meningsbärande: ändra tidslinje-år/LinkedIn-/Firebase-/-
   webb-länkar syns i profilen.
+- `.fabrik`: `kod: opencode`, `deploy` = git push till main,
+  `https://github.com/peterhangse` som adress.
 
 ## Gotchas
 
